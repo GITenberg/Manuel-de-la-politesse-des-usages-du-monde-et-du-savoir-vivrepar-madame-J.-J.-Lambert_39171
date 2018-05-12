@@ -1,0 +1,34 @@
+_repo: Manuel-de-la-politesse-des-usages-du-monde-et-du-savoir-vivrepar-madame-J.-J.-Lambert_39171
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rostaing, Jules
+    aliases:
+    - Rostaing, J. (Jules)
+    - Lambert, J.-J., Mme
+    - Polkarius
+    - Seltz, O. de
+    - Félix, Jules
+    - Felix, Jules
+    - Bonneveine
+    birthdate: 1824
+    gutenberg_agent_id: '39875'
+    url: http://www.gutenberg.org/2009/agents/39875
+description: ''
+gutenberg_bookshelf: FR Education et Enseignement
+gutenberg_issued: '2012-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39171'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Etiquette'
+title: Manuel de la politesse des usages du monde et du savoir-vivre
+url: http://www.gutenberg.org/ebooks/39171
