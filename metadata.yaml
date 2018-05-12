@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '39875'
     url: http://www.gutenberg.org/2009/agents/39875
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39171#Manuel-de-la-politesse-des-usages-du-monde-et-du-savoir-vivrepar-madame-J.-J.-Lambert
 gutenberg_bookshelf: FR Education et Enseignement
 gutenberg_issued: '2012-03-16'
 gutenberg_type: Text
